@@ -1,2 +1,1 @@
-test 입니다.......Master
-test 입니다.......Test01
+test 입니다.......
